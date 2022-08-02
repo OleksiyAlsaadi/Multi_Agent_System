@@ -48,10 +48,10 @@ All settings that can be modified are in `definitions.h`, except for changing th
 setting the map size. Setting the seed is done at the top of main in `mas.cpp`. Setting the
 map size is done in `map.h`.
 
-<img src="/Screenshots/1.png" width="100">
+<img src="/Screenshots/1.png" width="200">
 
-<img src="/Screenshots/2.png" width="100">
+<img src="/Screenshots/2.png" width="200">
 
-<img src="/Screenshots/3.png" width="100">
+<img src="/Screenshots/3.png" width="200">
 
 
